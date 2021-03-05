@@ -2,6 +2,14 @@
 
 from: [3D Graphics: A WebGL Tutorial](https://www.toptal.com/javascript/3d-graphics-a-webgl-tutorial)
 
+## 실행
+
+```
+yarn
+
+yarn dev
+```
+
 ## 작동과정
 
 ### 1. Mesh 생성
